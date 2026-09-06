@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/easyqda/easyqda.r-universe.dev
 	branch = HEAD
+[submodule "qdaR"]
+	path = qdaR
+	url = https://github.com/easyqda/qdaR
